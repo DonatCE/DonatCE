@@ -1,4 +1,4 @@
-- # 👋 Olá, eu sou o DonatCE!
+- # 👋 Olá, eu sou o Carlos Donat!
 
 Sou universitário na Cruzeiro do Sul, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Também estudo as principais linguagens de programação através da instituição Hashtag Treinamentos.
 
