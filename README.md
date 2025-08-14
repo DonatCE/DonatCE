@@ -27,6 +27,6 @@ Este projeto foi desenvolvido com os conhecimentos adquiridos durante meus estud
 Meu objetivo é evoluir cada vez mais como desenvolvedor, dominando várias linguagens e áreas de tecnologia, especialmente automação e inteligência artificial.
 
 
---- https://www.linkedin.com/in/carlos-donat-tecnologias/
+🔗https://www.linkedin.com/in/carlos-donat-tecnologias/
 
-**“A tecnologia move o mundo.”**
+🌟🌟🌟“A tecnologia move o mundo.”🌟🌟
